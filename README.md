@@ -1,11 +1,5 @@
 # PS7: Kronos Log Parsing
 
-## Contact
-Name: Vanzel Essien
-Section: 201
-Time to Complete: ~12 hrs
-
-
 ## Description
 Explain what the project does.
 analyzes Kronos InTouch log files to identify and report device boot events. outputs the start and end of each boot sequence, calculates the boot duration in , and flags incomplete boots while reporting this to a report .rpt file
@@ -41,3 +35,4 @@ StackOverflow
 ALOT of python YT vids (way too many to list here)
 w3schools.com (for python regex)
 geeksforgeeks
+
